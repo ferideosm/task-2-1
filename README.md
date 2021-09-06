@@ -1,6 +1,6 @@
 # Новый проект на GITHUB
 
-## Тут заголовок 
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 ### Наши преимущества:
 
